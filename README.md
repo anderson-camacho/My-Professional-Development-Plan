@@ -142,3 +142,7 @@ Fase 3: Transición Management
 ## 🖼️ **Anexo gráfico**
 
 📈 [Ejemplo de Diagrama de Gantt interactivo](https://www.teamgantt.com/examples/project-management/gantt-chart-example)
+
+
+## References
+https://www.youtube.com/watch?v=O1VIPSpTU1Y
